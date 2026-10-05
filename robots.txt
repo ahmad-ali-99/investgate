@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ahmad-ali-99.github.io/investgate/sitemap.xml
