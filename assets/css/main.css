@@ -22,7 +22,7 @@
   --on-dark-2:#aab2d8;
   --line-dark:rgba(255,255,255,.14);
 
-  --f-d:"IG Display","Noto Naskh Arabic","Playfair Display",Georgia,serif;
+  --f-d:"IG Display","Amiri","Playfair Display",Georgia,serif;
   --f-t:"IG Text","IBM Plex Sans Arabic","IBM Plex Sans",Tahoma,sans-serif;
 
   --g:clamp(16px,4vw,56px);          /* page gutter */
@@ -230,7 +230,7 @@ html:lang(en) .ovl__aside h4{text-transform:uppercase;letter-spacing:.14em}
 .gate__copy{grid-column:1 / span 7;position:relative;z-index:2}
 .gate__meta{display:flex;align-items:center;gap:14px;font-size:14px;color:var(--on-dark-2);margin-bottom:clamp(20px,4vh,40px)}
 .gate__meta::before{content:"";width:40px;height:1px;background:var(--ochre)}
-.gate__title{font-size:clamp(40px,5.8vw,96px);line-height:1.35;color:#fff}
+.gate__title{font-size:clamp(44px,6.8vw,112px);line-height:1.35;color:#fff}
 html:lang(en) .gate__title{line-height:1.05;font-size:clamp(40px,5.6vw,96px)}
 html:lang(en) .phero__title{font-size:clamp(40px,6.4vw,110px)}
 .gate__title .ln{display:block}
