@@ -597,6 +597,7 @@ html:lang(en) .c-block h3{text-transform:uppercase;letter-spacing:.14em}
 
 /* ---------- 404 ---------- */
 .nf{min-height:100svh;display:grid;align-content:center;gap:24px;background-color:var(--night);color:#fff;padding-block:var(--hdr)}
+.nf .lead{color:var(--on-dark-2)}
 .nf b{font-family:var(--f-d);font-stretch:125%;font-size:clamp(120px,22vw,320px);font-weight:200;line-height:.85;letter-spacing:-.05em;color:var(--ochre);direction:ltr;text-align:start}
 
 /* ==========================================================================
